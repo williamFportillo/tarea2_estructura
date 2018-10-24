@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WilliamPC/CLionProjects/tarea2EDI/colaSubway.cpp
+colaSubway.h
+C:/Users/WilliamPC/CLionProjects/tarea2EDI/colaSubway.h
+
+C:/Users/WilliamPC/CLionProjects/tarea2EDI/colaSubway.h
+iostream
+-
+
+C:/Users/WilliamPC/CLionProjects/tarea2EDI/main.cpp
+iostream
+-
+colaSubway.h
+C:/Users/WilliamPC/CLionProjects/tarea2EDI/colaSubway.h
+
